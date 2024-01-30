@@ -1,2 +1,2 @@
 # apnacollege-demo
-author - samyak sankhesara
+author - Samyak Nileshkumar Sankhesara
